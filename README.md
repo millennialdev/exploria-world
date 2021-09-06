@@ -2,6 +2,6 @@
 
 Created a beautiful travel booking website using GatsbyJS.
 
-link: [Exploria World](https://exploria-world.netlify.app/)
+<a href="https://exploria-world.netlify.app" target="_blank">Exploria World</a>
 
 ![Screenshot](./capture.jpg)
